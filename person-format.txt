@@ -1,0 +1,11 @@
+{name}
+
+{date}
+
+{location}
+
+{description}
+
+{memberships}
+
+{extra}

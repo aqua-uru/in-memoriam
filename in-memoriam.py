@@ -57,19 +57,19 @@ class Person:
             if field in person_data and person_data[field]:
                 setattr(self, field, person_data[field])
 
-    def format(self):
-        sections = [
-            self.format_name(),
-            self.format_date(),
-            self.location,
-            self.description,
-            self.format_memberships(),
-            self.format_remembrances(),
-            self.extra,
-        ]
-        result = "\n\n".join(sections)
-        result = re.sub("\n\n+", "\n\n", result)  # consolidate newlines
-        result = re.sub(" +", " ", result)  # consolide spaces
+    def format(self, format_str):
+        result = format_str.strip().format(
+            name=self.format_name(),
+            date=self.format_date(),
+            location=self.format_location(),
+            description=self.format_description(),
+            memberships=self.format_memberships(),
+            remembrances=self.format_remembrances(),
+            extra=self.extra,
+        )
+        result = re.sub(r"<.*>$", "", result, flags=re.MULTILINE)  # remove empty tags
+        result = re.sub(r"\n\n+", "\n\n", result)  # consolidate newlines
+        result = re.sub(r" +", " ", result)  # consolide spaces
         result = result.strip()
         return result
 
@@ -90,6 +90,12 @@ class Person:
             return f"{day} {month} {year}".strip()
 
         return " - ".join(extract_date(date) for date in self.dates)
+
+    def format_location(self):
+        return self.location
+
+    def format_description(self):
+        return self.description
 
     def format_memberships(self):
         if not self.memberships:
@@ -113,9 +119,12 @@ class Person:
         return self.nicks[0].upper() if self.nicks else self.name
 
 
-def render_persons(filename_in):
+def render_persons(filename_in, filename_format):
     with open(filename_in) as file:
         persons_data = yaml.safe_load(file)
+
+    with open(filename_format) as file:
+        format_str = file.read()
 
     persons = [Person(person_data) for person_data in persons_data]
     sorted_persons = sorted(persons, key=lambda person: person.sorting_name)
@@ -124,9 +133,12 @@ def render_persons(filename_in):
     )
 
     for chars, group in grouped_persons:
-        with open(f"in-memoriam_{chars}.txt", "w") as file:
-            file.write("<pb>".join(person.format() for person in group))
+        with open(f"{filename_in.partition('.')[0]}-{chars}.txt", "w") as file:
+            file.write("<pb>".join(person.format(format_str) for person in group))
 
 
 if __name__ == "__main__":
-    render_persons(sys.argv[1] if len(sys.argv) > 1 else "persons.yaml")
+    render_persons(
+        sys.argv[1] if len(sys.argv) > 1 else "persons.yaml",
+        sys.argv[2] if len(sys.argv) > 2 else "person-format.txt",
+    )
