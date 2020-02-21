@@ -71,7 +71,7 @@ class Person:
         result = re.sub("\n\n+", "\n\n", result)  # consolidate newlines
         result = re.sub(" +", " ", result)  # consolide spaces
         result = result.strip()
-        return result + "<pb>"
+        return result
 
     def format_name(self):
         assert self.name or self.nicks
@@ -125,8 +125,7 @@ def render_persons(filename_in):
 
     for chars, group in grouped_persons:
         with open(f"in-memoriam_{chars}.txt", "w") as file:
-            for person in group:
-                file.write(person.format())
+            file.write("<pb>".join(person.format() for person in group))
 
 
 if __name__ == "__main__":

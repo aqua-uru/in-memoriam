@@ -7,9 +7,9 @@
   memberships:
     - site: MOUL forums
       date: September 2006
-  remembrances:
-    - "MOUL forum thread by janeerah: Another loss"
 
+  # remembrances:
+  #   - "MOUL forum thread by janeerah: Another loss"
 - name: Richard Bader
   nicks:
     - ShadowCats
@@ -33,10 +33,10 @@
       date: Dec 2005
     - site: Mystralia Forums
       date: Aug 2006
+
   # remembrances:
   #   - "Guild of Greeters forum thread by Nyrphame Danilaise: Sad News, Shadowcats Remembered"
   #   - "Myst Online forum thread by veralun: Sad News, Shadowcats Remembered"
-
 - name: Jeannie Barcus
   nicks:
     - jmb30321
@@ -53,9 +53,9 @@
     - site: Guild of Greeters Forums
       date: Oct 2005
     - site: Ladies Garden Club
+
   # remembrances:
   #   - 'Jean Marie "Jeannie" Barcus obituary'
-
 - name: Don Billow
   nicks:
     - Sailor86
@@ -65,39 +65,40 @@
   location: California, USA
   description: "Sailor86 participated in MystOnline: UruLive during the GameTap era, appearing in multiple chatlogs. When MOUL closed in April 2008, he joined Second Life as Sailor86 Supermarine. He was a member of the D'ni Refugees group there and regularly attended the weekly Story Nights on D'ni history held by Rehnehmtahn Later (shoktootahn Rehn). As PirateRoberts Marenwolf, he was a beloved member of the role-playing sea-faring Antiquity group."
   memberships:
-    - site: "Second Life groups: D'ni Refugees, URU Tayma's Bevin, Rehn's Den"
-  remembrances:
-    - "MOUL forum thread by Mystryman: Sailor86 Has Passed"
-    - "An elaborate memorial service was held by the Antiquity group in Second Life which included a burial at sea"
-    - "Headstone at Antiquity Cathedral and Memorial Garden"
+    - site: "Second Life groups: D'ni Refugees, Uru Tayma's Bevin, Rehn's Den"
 
+  # remembrances:
+  #   - "MOUL forum thread by Mystryman: Sailor86 Has Passed"
+  #   - "An elaborate memorial service was held by the Antiquity group in Second Life which included a burial at sea"
+  #   - "Headstone at Antiquity Cathedral and Memorial Garden"
 - name: Jason Bobyarchick
   nicks:
     - Ja'run
   dates:
     - 29 August 2019
   description: "Died at the age of 34, a victim of gun violence. He was one of the early explorers and beta testers of the Cavern."
-  remembrances:
-    - "MOUL forum thread by Braggi: Repost and Update: Loss of a Friend"
 
+  # remembrances:
+  #   - "MOUL forum thread by Braggi: Repost and Update: Loss of a Friend"
 - name: Janet Burress
   nicks:
-    - Pehpsi
+    - Pehpsee
   dates:
     - 5 December 1953
     - 28 December 2004
   location: Arkansas, USA
   description: |
-    Known on the forums and by her friends as Pepsi and using the name "Pehpsee" in the cavern (Ubis policy prohibited avatar names with copyrighted products in them), Janet was active in the community by 2003. Joining the Ubisoft forums as Pepsi1953 in June of that year, she would become a Moderator and Community Assistant on the Ubisoft MystWorlds forums. Later that year, she would participate in the Uru Live Beta (Choru) and join the Guild of Greeters. She also participated in Prologue and was one of the original members of the DLA (D'ni League of Activities). Pepsi received many well wishes in her last days and many tributes upon her passing, including one from Cyanist Richard Watson (RAWA) written in the D''ni language, thus earning her entrance into the D'ni Dictionary as a reference for those phrases.
-    # 
-    # More than a decade after her passing, Janet continues to be fondly remembered by her cavern friends: Sheri Pate (Sh'aeri) frequently mentions Janet as an inspiration to her in her blog, The Eternal Sophomore, most notably, "The Janet Initiative" on January 1, 2015. Cyan's 2016 game, Obduction, which gave Kickstarter backers a chance to have personalized objects inserted in the game, includes a motorized wheelchair specified by Justin "Jibjustin" Esparza in honor of Janet.
+    Known on the forums and by her friends as Pepsi and using the name "Pehpsee" in the cavern (Ubisoft's policy prohibited avatar names with copyrighted products in them), Janet was active in the community by 2003. Joining the Ubisoft forums as Pepsi1953 in June of that year, she would become a Moderator and Community Assistant on the Ubisoft MystWorlds forums. Later that year, she would participate in the Uru Live Beta (Choru) and join the Guild of Greeters. She also participated in Prologue and was one of the original members of the D'ni League of Activities. Pepsi received many well wishes in her last days and many tributes upon her passing, including one from Cyanist Richard Watson (RAWA) written in the D'ni language, thus earning her entrance into the D'ni Dictionary as a reference for those phrases.
+  #
+  # More than a decade after her passing, Janet continues to be fondly remembered by her cavern friends: Sheri Pate (Sh'aeri) frequently mentions Janet as an inspiration to her in her blog, The Eternal Sophomore, most notably, "The Janet Initiative" on January 1, 2015. Cyan's 2016 game, Obduction, which gave Kickstarter backers a chance to have personalized objects inserted in the game, includes a motorized wheelchair specified by Justin "Jibjustin" Esparza in honor of Janet.
   memberships:
     - site: The Lyst
     - site: Ubisoft Forums
       date: Jun 2003
     - site: Guild of Greeters
       date: Dec 2003
-    - site: DLA (D'ni League of Activities)
+    - site: D'ni League of Activities
+
   # remembrances:
   #   - "Guild of Healers webpage: Pepsi Remembered"
   #   - 'Ubisoft forum thread by Khatie: Message to you all from "Pepsi"'
@@ -107,7 +108,6 @@
   #   - "Dec 2006 MOUL forum post by pad: Rememberance of Pepsi and the Reasons why Uru deeply touches"
   #   - "Feb 2008 MOUL forum post by mcladyb: Tribute to Pepsi and an impact that Uru made on people"
   #   - "Special Dedication: Ubisoft Forum Thread: The Mystery of the Bahro Caves"
-
 - name: David R Sweeney
   nicks:
     - CAGrayWolf
@@ -115,7 +115,7 @@
     - 3 February 1964
     - 21 June 2008
   location: Riverside, California, USA
-  description: "Known as Wolfie to his friends, CAGrayWolf was active in the Myst/Uru community right up until his death in 2008. He participated in the Uru Live Beta (Choru), Prologue, Until Uru and Myst Online: Uru Live (GameTap era). (He tells his own history with Uru on the MMORPG thread, Where did you first hear about URU Live?). He joined the Guild of Greeters in November 2003 and served as a Guild Master, worked on the Mysterium Planning Committee and served as a DRC Liaison. CAGrayWolf had an extensive collection of Myst and Uru memorabilia as seen on his Photobucket page: Myst Collection Album."
+  description: "Known as Wolfie to his friends, CAGrayWolf was active in the Myst/Uru community right up until his death in 2008. He participated in the Uru Live Beta (Choru), Prologue, Until Uru and Myst Online: Uru Live (GameTap era). (He tells his own history with Uru on the MMORPG thread, Where did you first hear about Uru Live?). He joined the Guild of Greeters in November 2003 and served as a Guild Master, worked on the Mysterium Planning Committee and served as a DRC Liaison. CAGrayWolf had an extensive collection of Myst and Uru memorabilia as seen on his Photobucket page: Myst Collection Album."
   memberships:
     - site: MYSTcommunity
       date: Jan 2003
@@ -123,17 +123,17 @@
       date: Nov 2003
     - site: DRC Forum
       date: Dec 2005
-    - site: "Myst Online: Uru Live Forum"
+    - site: MOUL forum
       date: May 8 2006
     - site: Mysterium Planning Committee
-      date: "? to 2008"
+      # date: "? to 2008"
+
   # remembrances:
   #   - "Guild of Greeters website: In Memorium"
   #   - "elledeegee's In Memorium of Wolfie"
   #   - "Mysterium 2008: CAGrayWolf Memorial"
   #   - "Guild of Messengers article by Crisger: A tribute to CAGreyWolf"
   #   - "Aug 2014 MOUL forum post by Marten: A story about Uru..."
-
 - name: James Carpenter
   nicks:
     - Aquila
@@ -141,7 +141,7 @@
     - 24 November 1961
     - 24 January 2006
   location: Modesto, California, USA
-  description: "Aquila was a member of the MYST community from the time of Riven's release, creating Aquila's Riven Pages, participating in CyanChat, The Riven Lyst and Rivenguild. When the latter two ended, long time Lyster Lehsa started \"The Lyst\" and Aquila created and administered the website for it. A question asked by Aquila on the Riven Lyst, \"What is Rubber Gut?\" is on a RAWA page of Cyan's website. Aquila also participated in the Uru Live Beta (Choru) & Prologue. In October, 2005, he was interviewed by Inside Mac Games for the article,\"Myst Uber Fan Interviewed\", Aquila was active in the Myst/Uru community right up until his unexpected death."
+  description: 'Aquila was a member of the MYST community from the time of Riven''s release, creating Aquila''s Riven Pages, participating in CyanChat, The Riven Lyst and Rivenguild. When the latter two ended, long time Lyster Lehsa started "The Lyst" and Aquila created and administered the website for it. A question asked by Aquila on the Riven Lyst, "What is Rubber Gut?" is on a RAWA page of Cyan''s website. Aquila also participated in the Uru Live Beta (Choru) & Prologue. In October, 2005, he was interviewed by Inside Mac Games for the article,"Myst Uber Fan Interviewed", Aquila was active in the Myst/Uru community right up until his unexpected death.'
   memberships:
     - site: Rivenguild
     - site: The Lyst
@@ -151,6 +151,7 @@
       date: Nov 2003
     - site: DRC Forums
       date: Dec 2005
+
   # remembrances:
   #   - "MYSTcommunity forum thread by Tweek: Rest in peace Aquila"
   #   - "Ubisoft forum thread by DebbieDec2003: The Lyst Administrator has passed away"
@@ -160,8 +161,6 @@
   #   - "James \"Aquila\" Carpenter Memorial Auction"
   #   - "Acacia Memorial Park - James Lynn Carpenter"
   #   - "The Lyst - Yahoo Groups"
-
-
 - name: Virginia Cinova
   nicks:
     - Terra
@@ -169,43 +168,43 @@
     - 31 December 1942
     - 25 February 2011
   location: Des Plaines, Illinois, USA
-  description: "Terra, also known as Advocate (on MYSTcommunity forums) was a member of the community by 2002, participated in Prologue, joined the Guild of Greeters in October 2003 and served as a Guild Master. She attended the 2004 Mysterium. In 2008, she moved on to \"Middle Earth\" (LOTRO) where she was known as Starligher and Kaprica."
+  description: 'Terra, also known as Advocate (on MYSTcommunity forums) was a member of the community by 2002, participated in Prologue, joined the Guild of Greeters in October 2003 and served as a Guild Master. She attended the 2004 Mysterium. In 2008, she moved on to "Middle Earth" (LOTRO) where she was known as Starligher and Kaprica.'
   memberships:
     - site: MYSTcommunity
       date: Oct 2002
     - site: Guild of Greeters
       date: Oct 2003
+
   # remembrances:
   #   - "Obituary/Tribute page for Virginia A. Cinova"
-
 - name: Alvin Lee Edwards
   nicks:
     - Wamduskasapa
   dates:
     - 1 March 1948
     - 8 February 2017
-  # location: Columbia, Missouri, USA
+  location: Columbia, Missouri, USA
   description: |
     Co-developer of the Age of R'Oshanhnin Korvahkhn.
-    
-    "I am The Traveler, The Wanderer, The Seeker of the Vision
-    The Search, The Quest, The Longing that now must begin
-    For Haunted by Great Mystery, Wanting, needing and desiring
-    To find the hidden knowledge, forced to endure the chagrin
+
+    "I am The Traveler, The Wanderer, The Seeker of the Vision;
+    The Search, The Quest, The Longing that now must begin;
+    For Haunted by Great Mystery, Wanting, needing and desiring;
+    To find the hidden knowledge, forced to endure the chagrin;
     The Wish, The Need, The Craving that exists within."
   memberships:
-    # - site: Guild of Writers
-    #   date: April 2010
-    # - site: MOUL Forum
-    #   date: Feb 2014
-    # - site: Cyan Forum
-    #   date: Feb 2014
+    - site: Guild of Writers
+      date: April 2010
+    - site: MOUL Forum
+      date: Feb 2014
+    - site: Cyan Forum
+      date: Feb 2014
     - site: Guild of Wizards
+
   # remembrances:
   #   - "Alvin Lee Edwards "
   #   - "21 Feb 2017 MOUL forum thread by ZestyOfXeniphers: RIP dear Wamduskasapa"
   #   - "GET-TOGETHER for Wamduskasapa (Al Edwards)"
-
 - name: Cindy Farrar
   dates:
     - 1998
@@ -217,26 +216,26 @@
     - 2 November 1955
     - 11 October 2009
   location: Dayton, Ohio, USA
-  description: "Gandhar, also known as Tralfaz and Jusme, participated in Myst Online: Uru Live (GameTap era) and was a member of Myss Terrie's Bevin. His daughter, Charura became an active member of the community following her father's passing."
+  description: "Gandhar, also known as Tralfaz and Jusme, participated in Myst Online: Uru Live (GameTap era) and was a member of Myss Terrie's Bevin. His daughter, Charura, became an active member of the community following her father's passing."
   memberships:
     - site: MOUL Forums
       date: Sep 2007
     - site: Myss Terrie's Forum
       date: Jun 2008
+
   # remembrances:
   #   - "Myss Terrie's forum thread by ms. isis: About our Friend Gandhar"
   #   - "MOUL forum thread by Dae Randoran (Ms. Isis): Our Friend Gandhar"
   #   - "Guild of Writers forum thread by fachia: For friends of Jusme"
   #   - "MOUL forum thread by Charura: Gandhar Memorial"
   #   - "Webmouse Publications: Gandhar Memorial"
-
 - name: Dan Goetz
   nicks:
     - Nvr2Old
+
   # memberships:
   #   - site: MOUL Forums
   #     date: Nov 2006
-
 - name: Kees Grashoff
   nicks:
     - Grassie73
@@ -248,20 +247,20 @@
     - site: Ubisoft Forum
       date: Aug 2003
     - site: Dutch MYST Community
-    - site: Chuckles58's URU Page
+    - site: Chuckles58's Uru Page
     - site: MOUL Forum
       date: May 2006
-    - site: Guild of Artistians 
+    - site: Guild of Artistians
     - site: Obduction Backers
+
   # remembrances:
   #   - "12 Jan 2016 MOUL forum thread by Geert: C Jay aka Grassie 73 is niet meer"
-
 - name: Ron Hayter
   dates:
     - 1957
     - 17 February 2015
   location: Vancouver, Canada
-  description: "Also known on some forums as RSHayter or RonHayter, Ron was best known in the community for development of the programs, Riveal and Revelator which allowed users to extract sounds, movies and textures from Myst games. While the programs were appreciated by many fans, their legality was sometimes questioned, but a post by Chogon put those concerns to rest. Ron was a long time Myst fan and attended Mysterium 2003 in Spokane."
+  description: "Also known on some forums as RSHayter or RonHayter, Ron was best known in the community for development of the programs Riveal and Revelator which allowed users to extract sounds, movies and textures from Myst games. While the programs were appreciated by many fans, their legality was sometimes questioned, but a post by Chogon put those concerns to rest. Ron was a long time Myst fan and attended Mysterium 2003 in Spokane."
   memberships:
     - site: The Lyst
     - site: Ubisoft Forums
@@ -272,10 +271,10 @@
       date: Feb 2007
     - site: Guild of Writers Forums
       date: Mar 2010
+
   # remembrances:
   #   - "The Vancouver Sun"
   #   - "Aug 26, 2015 MYSTcommunity forum post by realXCV: He’s… dead."
-
 - name: Michael Morrison
   nicks:
     - Jahuti
@@ -283,7 +282,7 @@
     - 15 November 1941
     - 16 December 2008
   location: Santa Rosa, California, USA
-  description: "Jahuti (sometimes known as \"Jahuti Rhys\") participated in Until Uru (Tapestry Shard, Volcano Shard, Alpha Blue shard), D'mala, and Myst Online: Uru Live (GameTap era). He was a member of the Amber Horizons neighborhood and is fondly remembered by his hoodmates for his humor and his convictions. He helped create the popular \"Sardines\" game, which was a favorite pastime on Tapestry Shard and was known to perch on \"his\" corner of the Takotah tent."
+  description: 'Jahuti (sometimes known as "Jahuti Rhys") participated in Until Uru (Tapestry Shard, Volcano Shard, Alpha Blue shard), D''mala, and Myst Online: Uru Live (GameTap era). He was a member of the Amber Horizons neighborhood and is fondly remembered by his hoodmates for his humor and his convictions. He helped create the popular "Sardines" game, which was a favorite pastime on Tapestry Shard and was known to perch on "his" corner of the Takotah tent.'
   memberships:
     - site: Amber Horizons Hood
     - site: D'ni Explorers Guild
@@ -296,12 +295,12 @@
     - site: MOUL forums
       date: May 2006
     - site: Myst Embassy Ambassadors
+
   # remembrances:
   #   - "MOUL forum thread by CrisGer: Sad News Jahuti Has Passed On"
   #   - "MOUL forum post by SuperGram, Amber Horizons forum thread by Mari: Jahuti Update"
   #   - "March 2009 Guild of Messengers newspaper which includes \"A Tribute to the late Jahuti Rhys\""
   #   - "Jahuti Memorial in Second Life"
-
 - name: Maureen Jannot
   nicks:
     - Mo'zie
@@ -312,10 +311,10 @@
   description: "An avid Myst fan, she was mostly a solitary player and not a forum poster, but one of her favorite times in the cavern was when a group of explorers helped her and her son, J'Ankenne to open the doors in Delin and Tsogahl. A ceramic artist who created sculptures based on the sea, she loved the beauty of the Myst games, and the creativity that she saw displayed in the Myst community."
   memberships:
     - site: J'Ankenne's Bevin
+
   # remembrances:
   #   - "MOUL forum thread by jankenne: An Explorer Death Outside the Cavern"
   #   - "Michigan.com Obituatry"
-
 - name: Douglas C. Souter
   nicks:
     - JDrake
@@ -323,16 +322,16 @@
     - 18 January 1952
     - 28 April 2007
   location: Grand Rapids, Michigan, USA
-  description: "JDrake, also known as JD, 6, jdrake06 and John_Drake06, participated in PreAfter, the Uru Live Beta (Choru), Prologue, Until Uru, D'mala, and Myst Online: Uru Live (GameTap era). According to his introductory post on the Guild of Greeters forum, JDrake was \"credited with discovering the whereabouts of the long lost 'Rocky Jones, Space Ranger, Silvercup Bread Touring Rocket'\" which looked similar to the Selentic Spaceship on Myst Island. During PreAfter, he and three friends created a Journey Hand sculpture of muffler parts for the contest, a photo of which can be found on his website, The Grand Rapids Four \"Journey to D'ni\". JDrake joined the Guild of Greeters, November 10, 2003 and was quite active during Prologue, being one of the first 100 Greeters and instrumental in helping to run the Youth Greeter Program. Following the closure of the cavern in February 2004, he moved on to play Ryzom with several other Greeters. Although he returned to the cavern when it re-opened, he had retired from Greeting."
+  description: 'JDrake, also known as JD, 6, jdrake06 and John_Drake06, participated in PreAfter, the Uru Live Beta (Choru), Prologue, Until Uru, D''mala, and Myst Online: Uru Live (GameTap era). According to his introductory post on the Guild of Greeters forum, JDrake was "credited with discovering the whereabouts of the long lost ''Rocky Jones, Space Ranger, Silvercup Bread Touring Rocket''" which looked similar to the Selentic Spaceship on Myst Island. During PreAfter, he and three friends created a Journey Hand sculpture of muffler parts for the contest, a photo of which can be found on his website, The Grand Rapids Four "Journey to D''ni". JDrake joined the Guild of Greeters, November 10, 2003 and was quite active during Prologue, being one of the first 100 Greeters and instrumental in helping to run the Youth Greeter Program. Following the closure of the cavern in February 2004, he moved on to play Ryzom with several other Greeters. Although he returned to the cavern when it re-opened, he had retired from Greeting.'
   memberships:
     - site: Guild of Greeters
       date: Nov 2004
     - site: MOUL Forums
       date: May 2006
+
   # remembrances:
   #   - "Guild of Greeters forum thread by Memiki: Passing Of A Great Friend"
   #   - "Douglas Souter obituary"
-
 - nicks:
     - Katzi
   dates:
@@ -340,10 +339,10 @@
   location: Germany
   memberships:
     - site: H'Uru Age Building Team
+
   # remembrances:
   #   - "H'Uru forum thread by Itep Edor: Abschied von Katzi"
   #   - "There is a memorial to Katzi in Takla Ma'kan and a plaque in I.Brattin's memorial age, Aquh"
-
 - name: William H. Maier
   nicks:
     - oldmanjob
@@ -351,7 +350,7 @@
     - 12 September 1939
     - 30 April 2012
   location: Dana, North Carolina, USA
-  description: "OMJ as he was known to his friends, participated in Prologue, Until Uru (\"GoG mainly, Tapestry, Great tree, Slackers, the Desert shard, Lost kin, Lost City of Atlantis and Adsolema\"), D’mala, Myst Online: Uru Live (GameTap era) and MOULAgain. He joined the Guild of Greeters in December 2004 and was a regular attendee to Ktahdn's \"Up On The Roof!\" parties and \"Music Night.\""
+  description: 'OMJ as he was known to his friends, participated in Prologue, Until Uru ("GoG mainly, Tapestry, Great tree, Slackers, the Desert shard, Lost kin, Lost City of Atlantis and Adsolema"), D’mala, Myst Online: Uru Live (GameTap era) and MOULagain. He joined the Guild of Greeters in December 2004 and was a regular attendee to Ktahdn''s "Up On The Roof!" parties and "Music Night."'
   memberships:
     - site: Guild of Greeters
       date: Dec 2004
@@ -365,13 +364,13 @@
       date: Aug 2010
     - site: OpenUru.org Forums
       date: Oct 2011
-    - site: Rooftop Volunteer Group (RVG)
+    - site: Rooftop Volunteer Group
+
   # remembrances:
   #   - "WGCR.net obituaries"
   #   - "Patriot Guard Riders forum thread: Patriot Guard: William H. Maier, USA Veteran, Hendersonville, NC"
   #   - "GuzziTech forum thread: Moto Guzzi loses a Great Ambassador"
   #   - "Guild of Greeters forum thread by Tai'lahr: Oldmanjob / William H. Maier"
-
 - name: Leonard E. Mumbower
   nicks:
     - Flyboy
@@ -379,26 +378,26 @@
     - 4 September 1925
     - 29 July 2008
   location: Foley, Alabama, USA
-  description: "Flyboy participated in Myst Online: Uru Live (GameTap era) and recorded songs for the weekly Karaoke nights. He recounted his long musical career in a post on the Beyond Uru forums: Flyboy’s URU/Karaoka & Music/Career Story He also wrote a column called Hangar Talk for \"Flying Simulator,\" the newsletter of the AF/D Society."
+  description: 'Flyboy participated in Myst Online: Uru Live (GameTap era) and recorded songs for the weekly Karaoke nights. He recounted his long musical career in a post on the Beyond Uru forums: Flyboy’s Uru/Karaoka & Music/Career Story He also wrote a column called Hangar Talk for "Flying Simulator," the newsletter of the AF/D Society.'
   memberships:
     - site: Beyond Uru Forums
+
   # remembrances:
   #   - "MOUL forum thread by Donahoo: Flyboy R.I.P."
   #   - "Leonard E. Mumbower obituary"
-
 - name: Jerry
   nicks:
     - Myst'Aken
   dates:
     - February 2011
   location: Ft Collins, Colorado, USA
-  description: "Also known as Zedicus, Seeker53 and Zedicus McMillan (Second Life), Myst'Aken participated in D'mala, Myst Online: Uru Live (GameTap era) and MOULAgain."
+  description: "Also known as Zedicus, Seeker53 and Zedicus McMillan (Second Life), Myst'Aken participated in D'mala, Myst Online: Uru Live (GameTap era) and MOULagain."
   memberships:
     - site: MOUL Forums as Seeker53
       date: Nov 2006
+
   # remembrances:
   #   - "MOUL forum thread by Dudemom: Passing of Myst'Aken"
-
 - name: Gorma Louise Curry O'Connor
   nicks:
     - GLO
@@ -407,24 +406,24 @@
   memberships:
     - site: MOUL Forum
       date: July 2010
+
   # remembrances:
   #   - "Gorma O Connor Memorial Fund (GLO)"
-
 - nicks:
     - Perlenstern
   dates:
     - 10 September 2011
   location: Berlin, Germany
-  description: "Perlenstern (Pearl Star) participated in Until Uru, Myst Online: Uru Live (GameTap era), MagiQuest, MOULAgain and fan shards. She created the age of Wianeroy."
+  description: "Perlenstern (Pearl Star) participated in Until Uru, Myst Online: Uru Live (GameTap era), MagiQuest, MOULagain and fan shards. She created the age of Wianeroy."
   memberships:
     - site: MOUL Forums
       date: Sep 2006
     - site: UruReallife (Black Dragon)
+
   # remembrances:
   #   - "UruReallife forum thread by der 3. Mann: Trauer um Perlenstern"
   #   - "H'Uru forum thread by Nobby deNobbs: In Gedenken an Perlenstern"
   #   - "MOUL forum thread by Kai-Uwe: Perlenstern has passed away"
-
 - name: Mark Plummer
   nicks:
     - Zardoz
@@ -432,7 +431,7 @@
     - 5 September 1954
     - 24 May 2014
   location: Planet Pluto (Federal Way, WA.)
-  description: "Zardoz's roots in the Myst/Uru Community can be traced back to at least Spring 2001 when he pursued the mystery of the realMyst Easter Eggs, documenting it thoroughly on his website, Zardoz's realMyst Easter Egg Hunt and other Goodies and a year later, documenting Zandi's mysterious clues with the pages, Zandi Facts. He participated in the Uru Live Beta (Choru), Prologue (opening the Bahro door in Eder Kemo to let Phil Henderson out), D'mala, Myst Online: Uru Live (GameTap era) and MOULAgain. Although he was \"not much of a social explorer\" in the cavern, Zardoz was very active in the community through CyanChat and forums, gave a \"realMyst flymode\" presentation at Mysterium 2003, assisted with the DRC Liaisons election near the end of D'mala, answered Myst/Uru related questions on the forums, and offered advice on many other topics. His sense of humor is revealed in the February 2007 D'ni Network Pen and Ink Interview with Zardoz, his creativity can be seen in the OpenUru Writers Club: The Fall of a Sparrow: A Zardoz Project, and both are evident in the brief storyline he conducted in the summer of 2007. Zardoz backed Cyan's Obduction Kickstarter in October 2013 and was generally active in the community until a few months before his death."
+  description: 'Zardoz''s roots in the Myst/Uru Community can be traced back to at least Spring 2001 when he pursued the mystery of the realMyst Easter Eggs, documenting it thoroughly on his website, Zardoz''s realMyst Easter Egg Hunt and other Goodies, and a year later, documenting Zandi''s mysterious clues with the pages Zandi Facts. He participated in the Uru Live Beta (Choru), Prologue (opening the Bahro door in Eder Kemo to let Phil Henderson out), D''mala, Myst Online: Uru Live (GameTap era) and MOULagain. Although he was "not much of a social explorer" in the cavern, Zardoz was very active in the community through CyanChat and forums, gave a "realMyst flymode" presentation at Mysterium 2003, assisted with the DRC Liaisons election near the end of D''mala, answered Myst/Uru related questions on the forums, and offered advice on many other topics. His sense of humor is revealed in the February 2007 D''ni Network Pen and Ink Interview with Zardoz, his creativity can be seen in the OpenUru Writers Club: The Fall of a Sparrow: A Zardoz Project, and both are evident in the brief storyline he conducted in the summer of 2007. Zardoz backed Cyan''s Obduction Kickstarter in October 2013 and was generally active in the community until a few months before his death.'
   memberships:
     - site: MYSTcommunity
       date: Jun 2001
@@ -444,7 +443,7 @@
       date: Jan 2004
     - site: DRC Fourms
       date: Dec 2005
-    - site: "Myst Online: Uru Live Forum"
+    - site: MOUL forum
       date: May 2006
     - site: Guild of Messengers Forum
       date: Nov 2007
@@ -453,10 +452,10 @@
     - site: OpenUru.org
       date: Dec 2008
     - site: UruObsession
+
   # remembrances:
   #   - "Mark Plummer obituary"
   #   - "MOUL forum thread by Tai'lahr: Memories of Zardoz"
-
 - name: Angelika Pahl
   nicks:
     - Ramsine
@@ -466,10 +465,10 @@
   location: Germany
   description: "Participated in Until Uru."
   memberships:
-    - site: "Member of the FFA Forum - Fakultät für Forschung und Abenteuer • Forum anzeigen - The Path of the Shell"
+    - site: "Fakultät für Forschung und Abenteuer"
+
   # remembrances:
   #   - "Uru Reallife forum thread by Kai-Uwe: Funeral Service for Ramsine (translated chatlog)"
-
 - name: Jim Rhodes
   nicks:
     - Dust'ei
@@ -478,9 +477,9 @@
   description: "Dust'ei was a regular in CyanChat during the Riven era."
   memberships:
     - site: Rivenguild
+
   # remembrances:
   #   - "MOUL forum post by Alahmnat"
-
 - name: Terri Richardson
   nicks:
     - Tai'lahr
@@ -498,28 +497,28 @@
       date: Apr 2008
     - site: OpenUru.org
       date: Dec 2008
-  remembrances:
-    - "MOUL forum thread by ghaelen: Prayers for Tai'lahr"
-    - "Guild of Messengers post by Nev'yn: Passing of Tai'lahr"
-    # - "Blog post on OpenUru.org by Mac_Fife: Tai'lahr"
-    # - "SL Newser post: Remembering Tai'lahr Winnikow."
+  # remembrances:
+  #   - "MOUL forum thread by ghaelen: Prayers for Tai'lahr"
+  #   - "Guild of Messengers post by Nev'yn: Passing of Tai'lahr"
+  #   - "Blog post on OpenUru.org by Mac_Fife: Tai'lahr"
+  #   - "SL Newser post: Remembering Tai'lahr Winnikow."
   extra: |
     "You were always a constant source of inspiration, kindness, and fun in the cavern. A perfect example of this community at its best. This Age of Veelay Tsahvahn is for you.
-    
+
     Be well, Tai...wherever you are. You will be missed always."
-    
+
     - Doobes
 
 - name: Josef Riedl
   dates:
     - 2008
-  description: "Josef co-founded the Guild of Linguists with his brother, Simon in November 1998."
+  description: "Josef co-founded the Guild of Linguists with his brother, Simon, in November 1998."
   memberships:
     - site: Guild of Linguists
+
   # remembrances:
   #   - "MOUL forum thread by K'laamas: R.I.P. Josef Riedl"
   #   - "MYSTcommunity forum thread by K'laamas: R.I.P. Josef Riedl"
-
 - name: Gayle Senatore
   nicks:
     - GemPanzy
@@ -541,16 +540,16 @@
   description: "Much loved explorer on MOUL, Deep Island, The Open Cave and other shards."
   memberships:
     - site: "Tereeza's Hood"
+
   # remembrances:
   #   - "Facebook post by Claidi Song"
-
 - name: Lisa Watson
   nicks:
     - Sil-Oh-Wet
   dates:
     - February 2012
   location: Las Vegas, Nevada, USA
-  description: "SIL_OH_WET on the forums, sil_oh_wet in the cavern, and just \"Sil\" to her friends, Lisa was an active explorer during the early Myst Online: Uru Live (GameTap era) days, participating in many storylines, hosting dance parties in the Kahlo Pub and hosting events in her neighborhood. \"sil_oh_wet’s Bevin\" was a popular place in those days, used to summon Yeesha (and she actually appeared), a gathering place to wait for news from Rils when he went on an expedition to Negilahn with Douglas Sharper, and of course for parties, including the weekly Karaoke. Karaoke nights were Sil's idea and she organized and hosted them for several months before sharing the duties with other D'niJs. When the cavern closed in April 2008, the event continued in Second Life and continues to this day, both in SL and in the cavern."
+  description: 'SIL_OH_WET on the forums, sil_oh_wet in the cavern, and just "Sil" to her friends, Lisa was an active explorer during the early Myst Online: Uru Live (GameTap era) days, participating in many storylines, hosting dance parties in the Kahlo Pub and hosting events in her neighborhood. "sil_oh_wet’s Bevin" was a popular place in those days, used to summon Yeesha (and she actually appeared), a gathering place to wait for news from Rils when he went on an expedition to Negilahn with Douglas Sharper, and of course for parties, including the weekly Karaoke. Karaoke nights were Sil''s idea and she organized and hosted them for several months before sharing the duties with other D''niJs. When the cavern closed in April 2008, the event continued in Second Life and continues to this day, both in SL and in the cavern.'
   memberships:
     - site: MOUL Forum
       date: Oct 2006
@@ -558,37 +557,37 @@
       date: Oct 2006
     # - site: SIL_OH_WET / Lisa's Flickr photo page
     # - site: Lisa Watson's (SIL_OH_WET) PhotoBucket
+
   # remembrances:
   #   - "MOUL forum thread by Dudemom: Passing of Sil-Oh-Wet"
   #   - "MOUL forum post by Lobo: Rememberances of Sil-Oh-Wet"
   #   - "The D'ni Voice: Remembrance"
-
 - name: David Ogden Stiers
   dates:
     - 31 October 1942
     - 3 March 2018
   location: Newport, Oregon
-  description: "An American film, stage, television and voice actor, David Ogden Stiers was probably best known for his role as Major Charles Emerson Winchester III on the television show, M*A*S*H. But to Uru fans, he was the voice of Jeff Zandi, our desert guide sitting beside his Airstream who assisted us in finding our way into the cavern. He also lent his voice & likeness to Esher in Myst V: End of Ages (2005) where his pronunciation of \"D'ni\" led fans to say it sounded like he was saying \"duck knee.\"  Stiers also provided the voice of Dr. Richard Watson in a recording found in the Kirel community room in the offline versions of Uru. Fondly remembered by Cyan employees who met him, his name was added to the memorial on 06 March 2018."
+  description: 'An American film, stage, television and voice actor, David Ogden Stiers was probably best known for his role as Major Charles Emerson Winchester III on the television show, M*A*S*H. But to Uru fans, he was the voice of Jeff Zandi, our desert guide sitting beside his Airstream who assisted us in finding our way into the cavern. He also lent his voice & likeness to Esher in Myst V: End of Ages (2005) where his pronunciation of "D''ni" led fans to say it sounded like he was saying "duck knee."  Stiers also provided the voice of Dr. Richard Watson in a recording found in the Kirel community room in the offline versions of Uru. Fondly remembered by Cyan employees who met him, his name was added to the memorial on 6 March 2018.'
+
   # memberships:
   #   - site: Online articles about David Ogden Stiers include Wikipedia; IMDb; CNN; New York Times
   # remembrances:
   #   - "04 Mar 2018 MOUL forum thread by poutrew: R.I.P David Ogden Stires (Esher)"
   #   - "Amber Horizons forum thread by Juli: good night Zandi"
-
 - name: Mary Beth Wilkinson
   nicks:
     - Aderyn
   dates:
     - 11 October 2017
-  description: "In addition to all her work with the Greeters, Aderyn was a pillar of the GameTap-era Amber Horizons neighborhood; she co-hosted, built for and otherwise helped sponsor many of our events, both in the Cavern, and later in Second Life, and was generally available to contribute whatever assistance or advice her friends might require."
+  description: "In addition to all her work with the Greeters, Aderyn was a pillar of the GameTap-era Amber Horizons neighborhood; she co-hosted, built for and otherwise helped sponsor many of their events, both in the Cavern, and later in Second Life, and was generally available to contribute whatever assistance or advice her friends might require."
   memberships:
     - site: Amber Horizons Hood
     - site: Second Life
     - site: MOUL forums
       date: February 2007
-  remembrances:
-    -  "MOUL forum thread by Ace: the loss of Aderyn"
 
+  # remembrances:
+  #   -  "MOUL forum thread by Ace: the loss of Aderyn"
 - nicks:
     - Yutiel Yoshi
   dates:
@@ -596,9 +595,9 @@
   memberships:
     - site: MOUL forums
       date: November 2015
-  remembrances:
-    - "MOUL forum thread by Kayara: Yutiel memorial letter"
 
+  # remembrances:
+  #   - "MOUL forum thread by Kayara: Yutiel memorial letter"
 - name: Jonathan Nicholas David Waite
   nicks:
     - Zander the Heretic
@@ -611,42 +610,43 @@
   memberships:
     - site: MOUL forums
       date: March 2010
-  remembrances:
-    - "MOUL forum thread by AdamJohnso: Zander"
-    - "Zanda's page: Zanda Myrande"
 
+  # remembrances:
+  #   - "MOUL forum thread by AdamJohnso: Zander"
+  #   - "Zanda's page: Zanda Myrande"
 - name: Jeff Zandi
   nicks:
     - Zanman
   dates:
     - 6 July 1964
     - 15 February 2019
-  # location: Texas, USA
-  description: "OOC NOTE: This is not for the in-game character, but for the real-life person who was the inspiration for URU's Jeff Zandi.
-  \n\n
-  A friend of the Miller brothers and the inspiration for the URU character of the same name, Jeff Zandi was well-known in the Texas Magic: The Gathering community for forming the Texas Guildmages, which has run for over two decades. He was a part of every meeting up until his death.
-  \n\n
-  He also helped found the Hunter Burton Memorial Open, a regular Magic: The Gathering charity event to promote awareness about suicide prevention within the gaming community, named after a young man from the MTG community who tragically took his own life in July 2013.
-  \n\n
-  Jeff is survived by his wife Willa and son Lawson.
-  \n\n
-  Obituary: https://www.muleymasonlewisville.com/obituary/jeffery-zandi
+  location: Texas, USA
+  description: |
+    OOC NOTE: This is not for the in-game character, but for the real-life person who was the inspiration for Uru's Jeff Zandi.
 
-  Other Links:
-  http://dnijazz.club/2019/02/16/jeff-zandi-has-passed-away/"
+    A friend of the Miller brothers and the inspiration for the Uru character of the same name, Jeff Zandi was well-known in the Texas Magic: The Gathering community for forming the Texas Guildmages, which has run for over two decades. He was a part of every meeting up until his death.
+
+    He also helped found the Hunter Burton Memorial Open, a regular Magic: The Gathering charity event to promote awareness about suicide prevention within the gaming community, named after a young man from the MTG community who tragically took his own life in July 2013.
+
+    Jeff is survived by his wife Willa and son Lawson.
+  #
+  # Obituary: https://www.muleymasonlewisville.com/obituary/jeffery-zandi
+  #
+  # Other Links:
+  # http://dnijazz.club/2019/02/16/jeff-zandi-has-passed-away/
   memberships:
-    - site: Hunter Burton Memorial Open - http://hunterburtonmemorialopen.com
-    - site: Texas Guildmages - https://www.facebook.com/TexasGuildMages
-  remembrances:
-    - "16 Feb 2019 D'ni Jazz Club post by Tweek: Jeff Zandi has passed away"
-    - "16 Feb 2019 Reddit post by Level 2 Judge: Jeff Zandi, the original Guildmage, has passed away"
+    - site: Hunter Burton Memorial Open
+    - site: Texas Guildmages
 
+  # remembrances:
+  #   - "16 Feb 2019 D'ni Jazz Club post by Tweek: Jeff Zandi has passed away"
+  #   - "16 Feb 2019 Reddit post by Level 2 Judge: Jeff Zandi, the original Guildmage, has passed away"
 - nicks:
     - Deirdre Karris
   dates:
     - September 3, 2015
   location: Kingman, Arizona, USA
-  description: "\"Deirdre Karris\" was the name of the Facebook account for the Uru avatar, Deirdre, known as Deirdre_1 on the forums. A long time Myst/Uru fan who joined the community by the end of 2003, she participated in Until Uru, D’mala, Myst Online: Uru Live (GameTap era) and MOULAgain. Deirdre was active in the cavern music community as both a regular attendee and sometimes DJ at the Friday Night Dance Parties, broadcasting her own events, attending the weekly Karaoke event and helping to organize the 2015 CavCon Awareness Event."
+  description: '"Deirdre Karris" was the name of the Facebook account for the Uru avatar, Deirdre, known as Deirdre_1 on the forums. A long time Myst/Uru fan who joined the community by the end of 2003, she participated in Until Uru, D’mala, Myst Online: Uru Live (GameTap era) and MOULagain. Deirdre was active in the cavern music community as both a regular attendee and sometimes DJ at the Friday Night Dance Parties, broadcasting her own events, attending the weekly Karaoke event and helping to organize the 2015 CavCon Awareness Event.'
   memberships:
     - site: Ubisoft Forums
       date: Nov 2003
@@ -654,7 +654,7 @@
       date: May 2006
     - site: DRC Forums
       date: Jan 2007
-    - site: URU After Dark
+    - site: Uru After Dark
   # remembrances:
   #   - "MOUL forum thread by Patricio: Deirdre Karris Memorial Service"
   #   - "Guild of Messengers news report, September 9, 2015: Memorial Service: Deirdre Karris"
