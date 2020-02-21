@@ -33,15 +33,6 @@ import re
 
 import yaml
 
-BOOK_GROUPS = dict(
-    collections.ChainMap(
-        *[
-            {char: chars for char in chars}
-            for chars in ["ABCDE", "FGHIJ", "KLMNOP", "QRSTU", "VWXYZ"]
-        ]
-    )
-)
-
 
 class Person:
     name = ""
@@ -120,17 +111,26 @@ class Person:
         return self.nicks[0].upper() if self.nicks else self.name
 
 
-def render_persons(filename_in, filename_format, folder_out):
+def render_persons(filename_in, filename_format, filename_books, folder_out):
     with open(filename_in) as file:
         persons_data = yaml.safe_load(file)
 
     with open(filename_format) as file:
         format_str = file.read()
 
+    with open(filename_books) as file:
+        books_str = file.read()
+
+    book_groups = dict(
+        collections.ChainMap(
+            *[{char: chars for char in chars} for chars in books_str.splitlines()]
+        )
+    )
+
     persons = [Person(person_data) for person_data in persons_data]
     sorted_persons = sorted(persons, key=lambda person: person.sorting_name)
     grouped_persons = itertools.groupby(
-        sorted_persons, key=lambda person: BOOK_GROUPS[person.sorting_name[0]]
+        sorted_persons, key=lambda person: book_groups[person.sorting_name[0]]
     )
 
     path_folder = pathlib.Path(folder_out)
@@ -157,9 +157,16 @@ parser.add_argument(
     default="person-format.txt",
 )
 parser.add_argument(
+    "-b",
+    "--books",
+    type=str,
+    help="The input TXT file containing the different book groups.",
+    default="book-groups.txt",
+)
+parser.add_argument(
     "-o", "--output", type=str, help="The output directory.", default="."
 )
 
 if __name__ == "__main__":
     args = parser.parse_args()
-    render_persons(args.data, args.format, args.output)
+    render_persons(args.data, args.format, args.books, args.output)
