@@ -50,6 +50,7 @@ class Person:
     description = ""
     memberships = []
     remembrances = []
+    extra = ""
 
     def __init__(self, person_data):
         for field in person_data:
@@ -64,6 +65,7 @@ class Person:
             self.description,
             self.format_memberships(),
             self.format_remembrances(),
+            self.extra,
         ]
         result = "\n\n".join(sections)
         result = re.sub("\n\n+", "\n\n", result)  # consolidate newlines
