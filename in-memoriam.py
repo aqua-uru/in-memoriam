@@ -25,10 +25,11 @@ below, containing the output texts for the persons in those groups.
     - "Myst Online forum thread: Sad news"
 """
 
+import argparse
 import collections
 import itertools
+import pathlib
 import re
-import sys
 
 import yaml
 
@@ -119,7 +120,7 @@ class Person:
         return self.nicks[0].upper() if self.nicks else self.name
 
 
-def render_persons(filename_in, filename_format):
+def render_persons(filename_in, filename_format, folder_out):
     with open(filename_in) as file:
         persons_data = yaml.safe_load(file)
 
@@ -132,13 +133,33 @@ def render_persons(filename_in, filename_format):
         sorted_persons, key=lambda person: BOOK_GROUPS[person.sorting_name[0]]
     )
 
+    path_folder = pathlib.Path(folder_out)
+    path_folder.mkdir(parents=True, exist_ok=True)
     for chars, group in grouped_persons:
-        with open(f"{filename_in.partition('.')[0]}-{chars}.txt", "w") as file:
+        path_file = path_folder / f"{filename_in.partition('.')[0]}-{chars}.txt"
+        with path_file.open("w") as file:
             file.write("<pb>".join(person.format(format_str) for person in group))
 
 
+parser = argparse.ArgumentParser()
+parser.add_argument(
+    "-d",
+    "--data",
+    type=str,
+    help="The input YAML file containing the persons data.",
+    default="persons.yaml",
+)
+parser.add_argument(
+    "-f",
+    "--format",
+    type=str,
+    help="The input TXT file containing person formatting.",
+    default="person-format.txt",
+)
+parser.add_argument(
+    "-o", "--output", type=str, help="The output directory.", default="."
+)
+
 if __name__ == "__main__":
-    render_persons(
-        sys.argv[1] if len(sys.argv) > 1 else "persons.yaml",
-        sys.argv[2] if len(sys.argv) > 2 else "person-format.txt",
-    )
+    args = parser.parse_args()
+    render_persons(args.data, args.format, args.output)
