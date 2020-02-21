@@ -97,7 +97,7 @@ class Person:
 
         def format_membership(membership):
             if "date" in membership:
-                return f'{membership["site"] if "date" in membership else ""} ({membership["date"]})'
+                return f'{membership["site"]} ({membership["date"]})'
             else:
                 return membership["site"]
 
